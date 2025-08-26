@@ -48,4 +48,10 @@ E. Advanced Analysis
 7. Which phones are priced above average selling price?
 8. How does a phone’s rating compare to its brand average?
 
-
+## 📂 Project Structure
+- `basic_analysis.sql` → descriptive queries  
+- `discount_analysis.sql` → discount-related queries  
+- `rating_analysis.sql` → ratings & reviews  
+- `feature_insights.sql` → memory, storage, camera insights  
+- `advanced_analysis.sql` → KPIs & deeper insights  
+- `README.md` → documentation  
