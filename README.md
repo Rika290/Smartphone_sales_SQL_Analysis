@@ -54,4 +54,9 @@ E. Advanced Analysis
 - `discount_analysis.sql` → discount-related queries  
 - `rating_analysis.sql` → ratings & reviews  
 - `feature_insights.sql` → memory, storage, camera insights  
-- `advanced_analysis.sql` → KPIs & deeper insights  
+- `advanced_analysis.sql` → KPIs & deeper insights
+
+📊 Key Insights
+- Apple dominates the premium segment with the highest average selling price.
+- Samsung covers all price categories, offering the widest product portfolio.
+- Camera presence drives higher prices, showing its importance in buyer decisions.
