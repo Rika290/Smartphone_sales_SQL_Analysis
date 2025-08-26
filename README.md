@@ -6,7 +6,7 @@ Project Overview:
   `Brand`, `Model`, `Color`, `Memory`, `Storage`, `Camera`, `Mobile`, `Rating`, `Selling_Price`, `Original_Price`, `Discount`, `discount_percentage`
 - Here, the skills used in this project are SQL, data analysis, business insights
 
-SQL concepts:
+SQL concepts used in this analysis:
 - Aggregations (SUM, AVG, COUNT)
 - Filtering & categorization (CASE, WHERE)
 - Subqueries (phones above avg price, brand avg rating)
