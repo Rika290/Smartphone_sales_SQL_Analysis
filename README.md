@@ -7,7 +7,7 @@
   `Brand`, `Model`, `Color`, `Memory`, `Storage`, `Camera`, `Mobile`, `Rating`, `Selling_Price`, `Original_Price`, `Discount`, `discount_percentage`
 - Skills used: SQL, data analysis, business insights
 
-### 📸 Dataset Preview
+### 📸 Dataset Preview:
 Here’s a snapshot of the dataset used in this project:
 
 ![Dataset Preview](images/table_preview.png)
