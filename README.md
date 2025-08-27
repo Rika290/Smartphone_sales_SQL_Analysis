@@ -1,6 +1,6 @@
 # Smartphone_Sales_SQL_Analysis
 
-## Project Overview:
+## 📌 Project Overview:
 - This project analyzes smartphone sales data to uncover insights on pricing, discounts, and consumer preferences using SQL.
 - Dataset is obtained from this link: https://www.kaggle.com/datasets/yaminh/smartphone-sale-dataset/data
 - Columns in this dataset:
