@@ -10,7 +10,7 @@ Project Overview:
 ### 📸 Dataset Preview
 Here’s a snapshot of the dataset used in this project:
 
-![Dataset Preview](images/sales_table.png)
+![Dataset Preview](images/sales_dataset.png)
 
 SQL concepts used in this analysis:
 - Aggregations (SUM, AVG, COUNT)
