@@ -12,6 +12,11 @@ Here’s a snapshot of the dataset used in this project:
 
 ![Dataset Preview](images/table_preview.png)
 
+## 📊 Key Insights:
+- Apple dominates the premium segment with the highest average selling price.
+- Samsung covers all price categories, offering the widest product portfolio.
+- Camera presence drives higher prices, showing its importance in buyer decisions.
+
 ## SQL concepts used in this analysis:
 - Aggregations (SUM, AVG, COUNT)
 - Filtering & categorization (CASE, WHERE)
@@ -19,7 +24,7 @@ Here’s a snapshot of the dataset used in this project:
 - Window functions (RANK() OVER (PARTITION BY ...))
 - CTEs (WITH clause)
 
-## 🔍 Business Questions Answered
+## 🔍 Business Questions Answered:
 
 A. Basic Analysis
 1. How many brands, models, and total phones exist?
@@ -61,8 +66,3 @@ E. Advanced Analysis
 - `rating_analysis.sql` → ratings & reviews  
 - `feature_insights.sql` → memory, storage, camera insights  
 - `advanced_analysis.sql` → KPIs & deeper insights
-
-## 📊 Key Insights
-- Apple dominates the premium segment with the highest average selling price.
-- Samsung covers all price categories, offering the widest product portfolio.
-- Camera presence drives higher prices, showing its importance in buyer decisions.
