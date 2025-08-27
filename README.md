@@ -5,7 +5,12 @@ Project Overview:
 - Dataset is obtained from this link: https://www.kaggle.com/datasets/yaminh/smartphone-sale-dataset/data
 - Columns in this dataset:
   `Brand`, `Model`, `Color`, `Memory`, `Storage`, `Camera`, `Mobile`, `Rating`, `Selling_Price`, `Original_Price`, `Discount`, `discount_percentage`
-- Here, the skills used in this project are SQL, data analysis, business insights
+- Skills used: SQL, data analysis, business insights
+
+### 📸 Dataset Preview
+Here’s a snapshot of the dataset used in this project:
+
+![Dataset Preview](images/sales_table.png)
 
 SQL concepts used in this analysis:
 - Aggregations (SUM, AVG, COUNT)
