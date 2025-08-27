@@ -1,6 +1,6 @@
 # Smartphone_Sales_SQL_Analysis
 
-Project Overview:
+## Project Overview:
 - This project analyzes smartphone sales data to uncover insights on pricing, discounts, and consumer preferences using SQL.
 - Dataset is obtained from this link: https://www.kaggle.com/datasets/yaminh/smartphone-sale-dataset/data
 - Columns in this dataset:
@@ -12,14 +12,14 @@ Here’s a snapshot of the dataset used in this project:
 
 ![Dataset Preview](images/table_preview.png)
 
-SQL concepts used in this analysis:
+## SQL concepts used in this analysis:
 - Aggregations (SUM, AVG, COUNT)
 - Filtering & categorization (CASE, WHERE)
 - Subqueries (phones above avg price, brand avg rating)
 - Window functions (RANK() OVER (PARTITION BY ...))
 - CTEs (WITH clause)
 
-🔍 Business Questions Answered
+## 🔍 Business Questions Answered
 
 A. Basic Analysis
 1. How many brands, models, and total phones exist?
@@ -62,7 +62,7 @@ E. Advanced Analysis
 - `feature_insights.sql` → memory, storage, camera insights  
 - `advanced_analysis.sql` → KPIs & deeper insights
 
-📊 Key Insights
+## 📊 Key Insights
 - Apple dominates the premium segment with the highest average selling price.
 - Samsung covers all price categories, offering the widest product portfolio.
 - Camera presence drives higher prices, showing its importance in buyer decisions.
