@@ -17,7 +17,7 @@ Here’s a snapshot of the dataset used in this project:
 - Samsung covers all price categories, offering the widest product portfolio.
 - Camera presence drives higher prices, showing its importance in buyer decisions.
 
-## SQL concepts used in this analysis:
+## 🛠️ SQL concepts used in this analysis:
 - Aggregations (SUM, AVG, COUNT)
 - Filtering & categorization (CASE, WHERE)
 - Subqueries (phones above avg price, brand avg rating)
